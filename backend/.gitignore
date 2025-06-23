@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+
+# Optional cache
+.cache
+dist
+
+# OS files
+.DS_Store
+
+# Editor config
+.vscode/
+.idea/
